@@ -1,0 +1,7 @@
+runs/
+archive/
+yolo_dataset/
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+
